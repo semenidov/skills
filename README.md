@@ -6,6 +6,7 @@
 
 - [code-reviewer](code-reviewer/SKILL.md) — независимое ревью PR или diff: существенные ошибки, выполнение задания и соблюдение правил проекта.
 - [create-pr](create-pr/SKILL.md) — правила оформления draft PR по итогам фичи.
+- [dev-cycle](dev-cycle/SKILL.md) — полный цикл разработки по слайсам: субагенты, отчёты, CI, независимое ревью и передача PR на приёмку.
 - [ponytail](ponytail/SKILL.md) — минимальное полное решение задачи без лишних усложнений; уровни lite, full и ultra.
 - [prepare-dev](prepare-dev/SKILL.md) — проверка готовности окружения перед разработкой.
 - [research](research/SKILL.md) — совместная проработка идеи и требований перед реализацией.
